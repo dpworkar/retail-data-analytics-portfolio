@@ -1,6 +1,6 @@
-# Retail Data Analytics Portfolio
+# Retail Data Analytics Portfolio (5 Projects)
 
-This repository contains a complete retail data analysis project using Excel, SQL, Power BI and Python based on the Sample Superstore dataset.
+This repository contains five data analysis projects using Excel, SQL, Power BI and Python based on the Sample Superstore dataset.
 
 The objective of this portfolio is to demonstrate end-to-end data analysis: data cleaning, transformation, analysis and visualization.
 
@@ -15,34 +15,42 @@ The objective of this portfolio is to demonstrate end-to-end data analysis: data
 
 ---
 
-## Project Structure
+## Projects
 
-### Excel Data Cleaning
-- Cleaned and transformed raw sales data using Power Query
-- Standardized data formats
-- Used VLOOKUP to merge and enrich datasets
+### 1. Excel Data Cleaning
+- Cleaned and transformed raw sales data using Power Query  
+- Standardized data formats  
+- Used VLOOKUP to merge and enrich datasets  
 
-### Excel Sales Dashboard
-- Built an interactive dashboard in Excel
-- Created key metrics: Sales, Profit, Orders
-- Analyzed performance by category and region
+---
+
+### 2. Excel Sales Dashboard
+- Built an interactive dashboard in Excel  
+- Created key metrics: Sales, Profit, Orders  
+- Analyzed performance by category and region  
 
 ![Excel Dashboard](excel-dashboard.png)
 
-### SQL Sales Analysis
-- Performed analysis using SQL queries
-- Used GROUP BY, aggregations and filtering
+---
 
-### Power BI Dashboard
-- Built an interactive dashboard
-- Visualized sales, profit and regional performance
+### 3. SQL Sales Analysis
+- Performed analysis using SQL queries  
+- Used GROUP BY, aggregations and filtering  
+
+---
+
+### 4. Power BI Dashboard
+- Built an interactive dashboard  
+- Visualized sales, profit and regional performance  
 
 ![Power BI Dashboard](powerbi-dashboard.png)
 
-### Python Exploratory Data Analysis
-- Performed data analysis using Pandas
-- Visualized data using Matplotlib
-- Identified trends and patterns
+---
+
+### 5. Python Exploratory Data Analysis
+- Performed data analysis using Pandas  
+- Visualized data using Matplotlib  
+- Identified trends and patterns  
 
 ![Python EDA](python-eda.png)
 
@@ -57,7 +65,8 @@ Sample Superstore dataset
 ## Summary
 
 This portfolio demonstrates the ability to:
-- clean and transform data
-- analyze business performance
-- work with multiple tools
-- build dashboards and present insights
+- perform end-to-end data analysis  
+- clean and transform data  
+- analyze business performance  
+- work with multiple tools  
+- build dashboards and present insights  
